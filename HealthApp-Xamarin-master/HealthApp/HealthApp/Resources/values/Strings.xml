@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="Hello">Hello World, Click Me!</string>
+  <string name="ApplicationName">HealthApp</string>
+  <string name="LoginButtonText">Entrar</string>
+  <string name="RegisterButtonText">Crie sua conta</string>
+  <string name="UsernameText">Usuário:</string>
+  <string name="PasswordText">Senha:</string>
+</resources>
